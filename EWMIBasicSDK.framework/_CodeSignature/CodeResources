@@ -12,9 +12,9 @@
 		<data>
 		qA9iqvHUcOTIQOKMcitUZDAaesE=
 		</data>
-		<key>Headers/EWMicroInverterSDK.h</key>
+		<key>Headers/WMIBasicSDK.h</key>
 		<data>
-		gVvz135M6Ru7lmYRx8CP4dUviV8=
+		juyQi1SEIXeC5XnDl/11TEHBnIE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -45,15 +45,15 @@
 			SubA1fCy1Nb9Y+qWndoJ09JFImT3z1BpjjDVBNA222I=
 			</data>
 		</dict>
-		<key>Headers/EWMicroInverterSDK.h</key>
+		<key>Headers/WMIBasicSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gVvz135M6Ru7lmYRx8CP4dUviV8=
+			juyQi1SEIXeC5XnDl/11TEHBnIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			6afd+KsU/StASZw+azYmC+9L1AlDO0PSISJeZmvP+CQ=
+			R4S7SPuUNRxqklSM1/5JuKSg+zTxNLeN2emvvcjv1mM=
 			</data>
 		</dict>
 	</dict>
